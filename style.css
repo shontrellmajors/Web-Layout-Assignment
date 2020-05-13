@@ -12,6 +12,7 @@ body {
     margin-top: 0 auto;
 }
 
+
 img{
     width: 30%;
     margin: 1px auto;
@@ -20,7 +21,15 @@ img{
 
 nav {
     float: right;
+}nav {
+    background-color: #c46d5b;
+    color: aliceblue;
+    font-family: "lobster", cursive;
 }
+
+
+
+
 
 ul {
     margin: 0;
@@ -32,9 +41,5 @@ li {
     display: inline-block;
     margin-left: 10px;
     padding-top: 15px;
-}
-
-header {
-    <img src="img\blueblack butterfly.jpg" alt="">
 }
 
