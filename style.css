@@ -3,7 +3,7 @@ body {
     height: auto;
     display: grid;
     padding-inline: 20px;
-    font-family: "lato";
+    font-family: "rancho";
     text-align: center;
 }
 
@@ -32,5 +32,9 @@ li {
     display: inline-block;
     margin-left: 10px;
     padding-top: 15px;
+}
+
+header {
+    <img src="img\blueblack butterfly.jpg" alt="">
 }
 
