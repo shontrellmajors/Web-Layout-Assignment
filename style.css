@@ -3,7 +3,7 @@ body {
     height: auto;
     display: grid;
     padding-inline: 20px;
-    font-family: "lobster", cursive;
+    font-family: "lobster";
     text-align: center;
 }
 
