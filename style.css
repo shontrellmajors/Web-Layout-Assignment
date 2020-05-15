@@ -3,7 +3,13 @@ body {
     height: auto;
     display: grid;
     padding-inline: 20px;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A605, #2305AB);
+    background-size: 400% 400%;
+    position: relative;
+    animation: change 10s ease-in-out infinite;
+    color: black;
     font-family: "rancho";
+    font-size: 20px;
     text-align: center;
 }
 
@@ -12,8 +18,7 @@ body {
     margin-top: 0 auto;
 }
 
-
-img{
+img {
     width: 30%;
     margin: 1px auto;
     display: block;
@@ -21,15 +26,7 @@ img{
 
 nav {
     float: right;
-}nav {
-    background-color: #c46d5b;
-    color: aliceblue;
-    font-family: "lobster", cursive;
 }
-
-
-
-
 
 ul {
     margin: 0;
