@@ -1,13 +1,12 @@
 body {
-    margin-inline: center;
+    margin-left: auto;
     height: auto;
     display: grid;
-    padding-inline: 20px;
+    padding-left: 0;
     background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A605, #2305AB);
     background-size: 400% 400%;
     position: relative;
     animation: change 10s ease-in-out infinite;
-    color: black;
     font-family: "rancho";
     font-size: 20px;
     text-align: center;
@@ -25,7 +24,7 @@ img {
 }
 
 nav {
-    float: right;
+    float: none;
 }
 
 ul {
